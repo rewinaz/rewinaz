@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rewinaz
+- 👋 Hi, I’m Rewina Zerou
 - 👀 I’m interested in Frontend, Backend and mobile development
 - 🌱 I’m currently learning Next.js, Mern and Flutter
 - 💞️ I’m looking to collaborate on all kinds of web and flutter projects
